@@ -25,6 +25,6 @@ To create an analytical HR dashboard that helps understand workforce structure, 
 - Salary increased consistently with experience and seniority.
 
 ## 🔗 Links  
-- **LinkedIn:** https://linkedin.com/in/hathim-manaf  
-- **Portfolio:**  
-- **Live Tableau Dashboard:** https://public.tableau.com/app/profile/haathim.manaf/viz/HRDashboard_17695890972600/HRSummary
+- [LinkedIn](https://linkedin.com/in/hathim-manaf)
+- [Portfolio]() 
+- [Live Tableau Dashboard](https://public.tableau.com/app/profile/haathim.manaf/viz/HRDashboard_17695890972600/HRSummary)
