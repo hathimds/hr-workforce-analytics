@@ -1,64 +1,30 @@
-# HR Workforce Analytics Using Python & Tableau
+# 📌 HR Workforce Analytics (Python + Tableau)
 
-This project simulates a real-world HR analytics system by generating synthetic employee data using Python and analyzing workforce patterns using Tableau dashboards. The objective is to demonstrate people analytics capabilities and provide data-driven insights for HR strategy and workforce planning.
+## 📖 Overview  
+This project analyzes workforce trends using a realistically simulated HR dataset. The dashboards provide insights into hiring patterns, attrition, compensation, performance, and geographic workforce distribution.
 
-## Project Overview
-The project focuses on:
-- Workforce demographics and diversity analysis
-- Hiring and attrition trends
-- Compensation and salary distribution
-- Performance distribution analysis
-- Geographic workforce distribution
-- Strategic HR insights and recommendations
+## 🎯 Objective  
+To create an analytical HR dashboard that helps understand workforce structure, attrition trends, salary distribution, and performance patterns across departments and locations.
 
-## Synthetic Data Generation
-A synthetic HR dataset was generated using Python to simulate realistic corporate workforce data. Business rules were applied for:
-- Department and job role probability distribution
-- Education constraints per job role
-- Salary modeling based on role, education, and gender modifiers
-- Hiring year distribution
-- Attrition simulation (~11%)
-- Performance rating distribution
+## 📊 What I Did  
+- Generated a synthetic HR dataset (~8,950 employees) using Python with structured business rules for hiring, attrition, salary, and performance.  
+- Designed two interactive Tableau dashboards:  
+  - **HR Summary Dashboard** for high-level workforce insights.  
+  - **HR Details Dashboard** for employee-level drill-down analysis.  
+- Analyzed hiring trends, attrition rate, salary patterns, and performance distribution.  
+- Visualized workforce distribution across roles, departments, and locations.
 
-This approach enables realistic analytics without exposing real employee data.
+## 🛠️ Tools Used  
+- Python (Pandas, NumPy)  
+- Tableau  
 
-## Dashboards
-### HR Summary Dashboard
-- Total employees, active vs terminated
-- Gender and age distribution
-- Hiring trends over time
-- Salary distribution
+## 🔍 Key Insights  
+- Overall attrition was around 11%, which aligns with industry averages.  
+- Higher education levels showed a positive correlation with better performance ratings.  
+- Workforce was concentrated in specific geographic regions, indicating regional hubs.  
+- Salary increased consistently with experience and seniority.
 
-### HR Details Dashboard
-- Department and job role distribution
-- Education and performance analysis
-- Overtime and salary insights
-- Termination and workforce dynamics
-
-## Tools & Skills
-- Python (Faker, NumPy, Pandas)
-- Tableau (Dashboards, Calculated Fields, Filters)
-- People Analytics
-- Data Modeling & Simulation
-- Business Intelligence & Data Storytelling
-
-## Key Insights
-- Workforce demographics are balanced across gender and age groups
-- Education level correlates with salary and performance
-- Hiring trends indicate organizational growth
-- Attrition remains stable (~11%)
-- Geographic workforce clustering indicates regional hubs
-
-## Strategic Recommendations
-- Implement retention programs for high-performing senior employees
-- Align compensation with education and performance metrics
-- Invest in training and education programs
-- Strengthen regional HR policies based on workforce distribution
-
-## Files
-- Dataset
-- Dashboard
-- Report
-
-## Author
-Haathim Manaf
+## 🔗 Links  
+- **LinkedIn:** https://linkedin.com/in/hathim-manaf  
+- **Portfolio:**  
+- **Live Tableau Dashboard:** https://public.tableau.com/app/profile/haathim.manaf/viz/HRDashboard_17695890972600/HRSummary
